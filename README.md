@@ -1,29 +1,25 @@
-# React Spreadsheet Assignment (Inscripts)
+# 📊 React Spreadsheet UI – Internship Assignment (Inscripts)
 
-This project is a front-end-only React prototype that mimics a spreadsheet UI, as per the assignment by Inscripts. It uses React 18, TypeScript (strict mode), Tailwind CSS for styling, and a custom table component for a spreadsheet-like experience.
+This project is a front-end-only spreadsheet-like UI built using **React**, **TypeScript (strict mode)**, and **Tailwind CSS**, based on the [Figma reference](https://www.figma.com/design/3nywpu5sz45RrCmwe68QZP/Intern-Design-Assigment?node-id=2-2535).
 
+Deployed via **Vercel** with pixel-accurate styling, dynamic tab functionality, and responsive design.
 
+---
 
-##  Features
+## 🚀 Live Demo
 
-- Pixel-close layout inspired by Figma design
-- Tab navigation with active highlighting
-- Spreadsheet-style table with alternate row coloring
-- Responsive and styled using Tailwind CSS
-- All tabs/buttons log to console (no dead UI)
-- Type-checked with TypeScript strict mode
-- Linting with ESLint + Prettier
+🔗 [View the deployed site on Vercel](https://react1-spreadsheet-assignment-6teqkeid4-sakshi-pandyas-projects.vercel.app)
 
+---
 
+## 🛠 Tech Stack
 
-## Tech Stack:
-
-- React 18 (with Vite)
-- TypeScript (strict)
-- Tailwind CSS
-- ESLint + Prettier
-- No external table library used
-
+- ⚛️ React 18
+- 🟦 TypeScript (strict mode)
+- 💨 Tailwind CSS
+- ⚡ Vite
+- 🔍 ESLint + Prettier (optional dev config)
+- 🚀 Deployed via Vercel
 
 
 
